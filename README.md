@@ -17,3 +17,7 @@
     <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/96dfe6d3-7a60-41b0-be8e-3d984b14eb1a" width="280"/>
     <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/9bf0ed0f-556d-448e-b9f5-09f6bb6bcf72" width="280"/>
 </div>
+
+## 使用方法
+1. LINE Developersに登録しMessageAPIの設定を行う
+2. GASのプロパティに LINE botのチャンネルアクセストークン、OpenAIのAPI Key、Cloud Vision API keyを設定する
