@@ -4,5 +4,4 @@
 加えて、料理の完成予想画像を生成します。
 
 ## 動作例
-![Ex:1_input]
-(https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/507697ee-88ed-42eb-b1d5-ec0e884ffb36)
+![Screenshot_20230512-152211](https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/507697ee-88ed-42eb-b1d5-ec0e884ffb36)
