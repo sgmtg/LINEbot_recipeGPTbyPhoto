@@ -9,14 +9,14 @@
 入力→出力
 <div style="display:flex;">
     <img src="./Screenshot_20230512-152211.png" width="280"/>
-    <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/123dacff-fc6b-47a5-8320-ed8d84286036" width="280"/>
+    <img src="./Screenshot_20230512-152223.png" width="280"/>
 </div>
 
 ### 例2
 入力→出力
 <div style="display:flex;">
-    <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/96dfe6d3-7a60-41b0-be8e-3d984b14eb1a" width="280"/>
-    <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/9bf0ed0f-556d-448e-b9f5-09f6bb6bcf72" width="280"/>
+    <img src="./Screenshot_20230512-152357.png" width="280"/>
+    <img src="./Screenshot_20230512-152406.png" width="280"/>
 </div>
 
 ## 使用方法
