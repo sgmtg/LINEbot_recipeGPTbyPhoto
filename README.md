@@ -8,7 +8,7 @@
 ### 例1
 入力→出力
 <div style="display:flex;">
-    <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/6faa17eb-4459-4d91-a43e-7fd1d5c2e93d" width="280"/>
+    <img src="./Screenshot_20230512-152211.png" width="280"/>
     <img src="https://github.com/sgmtg/LINEbot_recipeGPTbyPhoto/assets/72187839/123dacff-fc6b-47a5-8320-ed8d84286036" width="280"/>
 </div>
 
